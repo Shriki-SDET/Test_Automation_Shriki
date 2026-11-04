@@ -56,3 +56,4 @@ test2.shift();
 console.log(test2) // [ 'Shriki', 10, 'ABC', 30, 'MNO', 50 ]
 
 // Slice Method : 
+
